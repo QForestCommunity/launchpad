@@ -11,7 +11,7 @@ If you are, then that's amazing! You're about to be inrtoduced to a whole new wo
   - [qkitchen](https://gitlab.com/qkitchen/basics-of-quantum-computing/-/tree/master/math): Explanations along with a few fun exercises.  
   - [Week 0: A crash course on quantum information](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/): A few really good videos on the basics of quantum information and the math behind it. 
   - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-prerequisites/linear_algebra.html): Linear ALgebra pre-requisites for Quantum Computing.  
-  - [Quantum Algorithms via Linear Algebra](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149911380.pdf): Feel refer to topics in chapters 1-6 for queries related to the math behind Quantum Computing.  
+  - [Quantum Algorithms via Linear Algebra](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149911380.pdf): Feel free to refer to topics in chapters 1-6 for queries related to the math behind Quantum Computing.  
   
 - _Next steps:_
   - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-states/representing-qubit-states.html): Representing qubits
