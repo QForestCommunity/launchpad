@@ -1,3 +1,4 @@
+![logo](assets/logo.png)
 # Welcome to QForest!
 
 This repository contains resources to get you started in the field of quantum computing.
