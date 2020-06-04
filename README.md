@@ -4,14 +4,14 @@
 This repository contains resources to get you started in the field of quantum computing.
   
 ### Getting started :rocket:
-- _Are you completely new to quantum computing?_  
-If you are, then that's amazing! You're about to be inrtoduced to a whole new world of possibilities. For an introduction to quantum computing, you can check out our article on it and take a [Dive Into The Quantum Realm](https://medium.com/qvillage/diving-into-the-quantum-realm-124c26f293cb) with us!  
+- _New to quantum computing?_  
+If you are, then that's amazing! You're about to be introduced to a whole new world of possibilities: take a [Dive Into The Quantum Realm](https://medium.com/qvillage/diving-into-the-quantum-realm-124c26f293cb) with us!  
   
 - _For an in-depth introduction to the math under the hood, you can check these out:_
   - [qkitchen](https://gitlab.com/qkitchen/basics-of-quantum-computing/-/tree/master/math): Explanations along with a few fun exercises.  
   - [Week 0: A crash course on quantum information](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/): A few really good videos on the basics of quantum information and the math behind it. 
-  - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-prerequisites/linear_algebra.html): Linear ALgebra pre-requisites for Quantum Computing.  
-  - [Quantum Algorithms via Linear Algebra](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149911380.pdf): Feel free to refer to topics in chapters 1-6 for queries related to the math behind Quantum Computing.  
+  - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-prerequisites/linear_algebra.html): Linear algebra for quantum computation.  
+  - [Quantum Algorithms via Linear Algebra](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149911380.pdf): Feel free to refer to topics in chapters 1-6 for queries related to the math behind quantum computing.  
   
 - _Next steps:_
   - [IBM Qiskit Textbook](https://qiskit.org/textbook/ch-states/representing-qubit-states.html): Representing qubits
@@ -21,7 +21,7 @@ If you are, then that's amazing! You're about to be inrtoduced to a whole new wo
    
  ### Feeling good about your basics? Translate theory into code! :fire:  
  - [qkitchen](https://gitlab.com/qkitchen/basics-of-quantum-computing/-/tree/master/python): A few basics of Python to help you get started.
- - [Coding with Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY): _Highly recommended_ video series by IBM Qiskit on getting started with coding in Qiskit. 
+ - [Coding with Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY): A _highly recommended_ video series by IBM Qiskit on getting started with coding in Qiskit. 
  - [qkitchen](https://gitlab.com/qkitchen/basics-of-quantum-computing/-/tree/master/bronze): Fun programming exercises on quantum computing along with solutions. 
  - [IBM Qiskit Textbook](https://qiskit.org/textbook/preface.html): An exhaustive resource on theory and code.  
    
