@@ -1,8 +1,7 @@
 ### All Submissions:
 
-* [ ] Have you followed the guidelines in our [Contributing]() document?
 * [ ] Have you checked to ensure there aren't other open [Pull Requests]() for the same update/change?
-* [ ] The commit message follows our guidelines
+* [ ] The commit message makes sense and explains what you want to do.
 <!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
 
