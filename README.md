@@ -28,6 +28,7 @@ If you are, then that's amazing! You're about to be introduced to a whole new wo
  ### A few extra resources that absolutely made us fall in love with quantum:
  - [An Introduction to Quantum Information Science, MIT](https://courses.edx.org/courses/course-v1:MITx+8.370.1x+1T2018/course/): A few exceptionally fascinating videos on the theoretical aspects of Quantum Computing.  
  - [The Introduction to Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms/home/welcome): A thorough exploration of the concepts of quantum computing and the various facets of quantum algorithms. 
+ - [Quantum computing for the determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4): A playlist of 22 videos, which cover subjects including the basic model of quantum computing, entanglement, superdense coding, and quantum teleportation.
  
  For any further queries or assistance that you may require, you can always reach out to us on our [Slack channel](https://join.slack.com/t/pesqforest/shared_invite/zt-7emmce0k-yugCvsioSKXrhCyfDfzZAg)!  
    
