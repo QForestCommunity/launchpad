@@ -4,7 +4,7 @@
 Provides a detailed outlook on the building blocks needed for quantum computing operations and quantum processing units.
 
 * [Here’s a Blueprint for a Practical Quantum Computer](https://spectrum.ieee.org/computing/hardware/heres-a-blueprint-for-a-practical-quantum-computer)  
-In depth description of the design of a quantum computer and it's differences from standard classical processing units.
+In depth description of the design of a quantum computer and its differences from standard classical processing units.
 
 * Chapter 5, Quantum Computing: Progress and Prospects. Washington, DC: The National Academies Press.  
 [Essential Hardware Components of a Quantum Computer](https://www.nap.edu/read/25196/chapter/7) 
