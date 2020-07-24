@@ -3,7 +3,7 @@
 ### Pre-requisites: 
 It is preferable to already have some background in the basics of quantum computing, if you'd like a refresher, check out a list of resources we've curated for you [here](https://github.com/QForestCommunity/launchpad/blob/master/README.md)!
 ### Few resources to help you get started in quantum cryptography:
-- [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/): This course provides an in-depth introduction to quantum computing and quantum information followed by a thorough mathematical introduction to the different facets of quantum cryptography and different QKD protocols.
+- [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography): This course provides an in-depth introduction to quantum computing and quantum information followed by a thorough mathematical introduction to the different facets of quantum cryptography and different QKD protocols.
 - [Introduction to Quantum Cryptography](https://www.intechopen.com/books/theory-and-practice-of-cryptography-and-network-security-protocols-and-technologies/introduction-to-quantum-cryptography): A thorough introduction to what quantum cryptography is.
 - [An Introduction to Quantum Coin Tossing](https://arxiv.org/pdf/quant-ph/0206088.pdf): A review of the quantum counterpart of the coin-tossing cryptography problem.
 - [Cryptography From a Quantum Mechanical Viewpoint](https://arxiv.org/pdf/1407.2357.pdf)
